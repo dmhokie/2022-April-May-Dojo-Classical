@@ -100,7 +100,7 @@
 [Round "1"]
 [White "Twan709"]
 [Black "BCGolem"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "Twan709#3245"]
 [BlackId "BCGolem#9594"]
@@ -108,7 +108,7 @@
 [BlackElo "1700"]
 
 {[%SevillaID "2998"]}
-*
+1-0
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]

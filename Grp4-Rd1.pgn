@@ -67,7 +67,7 @@
 [Round "1"]
 [White "Barnstorm"]
 [Black "BigTasty208"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1200-1600"]
 [WhiteId "Barnstorm#2520"]
 [BlackId "BigTasty420#8636"]
@@ -75,7 +75,7 @@
 [BlackElo "1452"]
 
 {[%SevillaID "3053"]}
-*
+1/2-1/2
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -223,14 +223,14 @@
 [Round "1"]
 [White "King_Freebird"]
 [Black "sinewave13"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [BlackId "sinewave1474"]
 [WhiteElo "1436"]
 [BlackElo "1253"]
 
 {[%SevillaID "3056"]}
-*
+1-0
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -301,7 +301,7 @@
 [Round "1"]
 [White "librocubiculartist"]
 [Black "realraptor"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "JustCallMeLibro"]
 [BlackId "realraptor#2628"]
@@ -309,7 +309,7 @@
 [BlackElo "1298"]
 
 {[%SevillaID "3046"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]

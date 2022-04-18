@@ -20,13 +20,13 @@
 [Round "1"]
 [White "dnelbyj"]
 [Black "iamjameel"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteElo "2065"]
 [BlackElo "1745"]
 
 {[%SevillaID "3066"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -34,14 +34,14 @@
 [Round "1"]
 [White "geekvinod"]
 [Black "iridescentmollusc"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [BlackId "iridescentmollusc#4702"]
 [WhiteElo "1685"]
 [BlackElo "1849"]
 
 {[%SevillaID "3073"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -97,14 +97,14 @@
 [Round "1"]
 [White "KingSideInvasion"]
 [Black "yaR_33"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [BlackId "yaR_33#0033"]
 [WhiteElo "1953"]
 [BlackElo "1700"]
 
 {[%SevillaID "3070"]}
-*
+1-0
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
