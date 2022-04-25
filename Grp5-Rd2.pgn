@@ -82,14 +82,14 @@
 [Round "2"]
 [White "JulienRoyale"]
 [Black "geekvinod"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteId "JulienRoyale#6686"]
 [WhiteElo "1800"]
 [BlackElo "1685"]
 
 {[%SevillaID "3172"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -189,14 +189,14 @@
 [Round "2"]
 [White "talalma"]
 [Black "Jon Luzhin"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [BlackId "discordmoniker#0925"]
 [WhiteElo "1622"]
 [BlackElo "1699"]
 
 {[%SevillaID "3176"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]

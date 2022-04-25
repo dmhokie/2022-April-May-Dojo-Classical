@@ -20,7 +20,7 @@
 [Round "2"]
 [White "davisas1998"]
 [Black "pgrucza"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "Alex D#6020"]
 [BlackId "portage#5445"]
@@ -28,7 +28,7 @@
 [BlackElo "882"]
 
 {[%SevillaID "3085"]}
-*
+1-0
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -68,14 +68,14 @@
 [Round "2"]
 [White "geekguam"]
 [Black "Thinkerbell1"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "geek.guam#2528"]
 [WhiteElo "1016"]
 [BlackElo "1196"]
 
 {[%SevillaID "3080"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -130,14 +130,14 @@
 [Round "2"]
 [White "panickedpawns"]
 [Black "cicipov"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "panickedpawns#4030"]
 [WhiteElo "961"]
 [BlackElo "1189"]
 
 {[%SevillaID "3081"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -160,7 +160,7 @@
 [Round "2"]
 [White "s0lm0"]
 [Black "BananaPyjamaz"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "s0lm0#6052"]
 [BlackId "pumpkinthecat#3938"]
@@ -168,7 +168,7 @@
 [BlackElo "1032"]
 
 {[%SevillaID "3084"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
