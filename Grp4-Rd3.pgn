@@ -4,7 +4,7 @@
 [Round "3"]
 [White "B17FF"]
 [Black "Halgilde"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "B17FF #3970"]
 [BlackId "Halgilde#5362"]
@@ -12,7 +12,7 @@
 [BlackElo "1344"]
 
 {[%SevillaID "3211"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -82,14 +82,14 @@
 [Round "3"]
 [White "Falken1984"]
 [Black "KC_Master_Piece"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1200-1600"]
 [WhiteId "Falken1984#4114"]
 [WhiteElo "1282"]
 [BlackElo "1217"]
 
 {[%SevillaID "3225"]}
-*
+1/2-1/2
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -302,7 +302,7 @@
 [Round "3"]
 [White "Pfeiffer"]
 [Black "bgcube007"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "Harkonnen#5350"]
 [BlackId "bgcube007#2494"]
@@ -310,7 +310,7 @@
 [BlackElo "1259"]
 
 {[%SevillaID "3224"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -429,7 +429,7 @@
 [Round "3"]
 [White "Wyattwinter8"]
 [Black "alive50"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "Wyattwinter8 (9078)"]
 [BlackId "alive50"]
@@ -437,6 +437,6 @@
 [BlackElo "1495"]
 
 {[%SevillaID "3213"]}
-*
+0-1
 
 

@@ -97,14 +97,14 @@
 [Round "3"]
 [White "KingSideInvasion"]
 [Black "sigitaskeras"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+"]
 [BlackId "n/a"]
 [WhiteElo "1953"]
 [BlackElo "1926"]
 
 {[%SevillaID "3230"]}
-*
+1/2-1/2
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -204,7 +204,7 @@
 [Round "3"]
 [White "tinglylawyer"]
 [Black "joel cato"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+"]
 [WhiteId "mitz #1033"]
 [BlackId "joel#7861"]
@@ -212,7 +212,7 @@
 [BlackElo "1763"]
 
 {[%SevillaID "3238"]}
-*
+1/2-1/2
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
