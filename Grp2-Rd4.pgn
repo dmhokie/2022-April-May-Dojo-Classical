@@ -4,7 +4,7 @@
 [Round "4"]
 [White "Banausos"]
 [Black "Clarkp56"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "corporeal#6410"]
 [BlackId "Clarkp56 #9024"]
@@ -12,7 +12,7 @@
 [BlackElo "841"]
 
 {[%SevillaID "3310"]}
-*
+1-0
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -20,7 +20,7 @@
 [Round "4"]
 [White "Capa_a"]
 [Black "Seth_Lichtenstein"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "Verified"]
 [WhiteId "ChessDad#0536"]
 [BlackId "Seth_Lichtenstein#2638"]
@@ -28,7 +28,7 @@
 [BlackElo "1510"]
 
 {[%SevillaID "3313"]}
-*
+1/2-1/2
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -36,7 +36,7 @@
 [Round "4"]
 [White "falk312"]
 [Black "esrosenberg"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "Falk#8401"]
 [BlackId "esrosenberg#3594"]
@@ -44,7 +44,7 @@
 [BlackElo "2210"]
 
 {[%SevillaID "3306"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -52,7 +52,7 @@
 [Round "4"]
 [White "hicetnunc"]
 [Black "headcanon"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "LrntSltf (Laurent)#3345"]
 [BlackId "zeedo#2403"]
@@ -60,7 +60,7 @@
 [BlackElo "1740"]
 
 {[%SevillaID "3308"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "4"]
 [White "MorphyfanLL"]
 [Black "joeldick"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "morphyfanLL#8385"]
 [BlackId "joel#7861"]
@@ -76,7 +76,7 @@
 [BlackElo "1778"]
 
 {[%SevillaID "3309"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -84,7 +84,7 @@
 [Round "4"]
 [White "OchoCougar"]
 [Black "yaR_33"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "OchoCougar"]
 [BlackId "yaR_33#0033"]
@@ -92,7 +92,7 @@
 [BlackElo "1700"]
 
 {[%SevillaID "3314"]}
-*
+1-0
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -100,7 +100,7 @@
 [Round "4"]
 [White "Rook_Handler"]
 [Black "scaccus_africanus"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "chessgamer2007#1482"]
 [BlackId "sjwsparks #5276"]
@@ -108,7 +108,7 @@
 [BlackElo "1526"]
 
 {[%SevillaID "3312"]}
-*
+1-0
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -116,7 +116,7 @@
 [Round "4"]
 [White "ThorBiddles"]
 [Black "I_Am_Kaspar"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "Thorbiddles#6429"]
 [BlackId "Kaspar#3560"]
@@ -124,7 +124,7 @@
 [BlackElo "1719"]
 
 {[%SevillaID "3311"]}
-*
+1-0
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -132,7 +132,7 @@
 [Round "4"]
 [White "Twan709"]
 [Black "Pauli3141"]
-[Result "*"]
+[Result "0-0"]
 [Section "Verified"]
 [WhiteId "Twan709#3245"]
 [BlackId "Pauli#4131"]
@@ -140,6 +140,6 @@
 [BlackElo "1703"]
 
 {[%SevillaID "3307"]}
-*
+0-0
 
 
