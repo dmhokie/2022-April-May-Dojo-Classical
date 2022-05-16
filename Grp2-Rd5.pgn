@@ -2,121 +2,9 @@
 [Site "chess.com"]
 [Date "2022.05.09"]
 [Round "5"]
-[White "esrosenberg"]
-[Black "Twan709"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "esrosenberg#3594"]
-[BlackId "Twan709#3245"]
-[WhiteElo "2210"]
-[BlackElo "2127"]
-
-{[%SevillaID "3458"]}
-*
-
-[Event "2022 April/May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.05.09"]
-[Round "5"]
-[White "joeldick"]
-[Black "headcanon"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "joel#7861"]
-[BlackId "zeedo#2403"]
-[WhiteElo "1778"]
-[BlackElo "1740"]
-
-{[%SevillaID "3459"]}
-*
-
-[Event "2022 April/May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.05.09"]
-[Round "5"]
-[White "Rook_Handler"]
-[Black "ThorBiddles"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "chessgamer2007#1482"]
-[BlackId "Thorbiddles#6429"]
-[WhiteElo "1775"]
-[BlackElo "2131"]
-
-{[%SevillaID "3460"]}
-*
-
-[Event "2022 April/May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.05.09"]
-[Round "5"]
-[White "Pauli3141"]
-[Black "Banausos"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "Pauli#4131"]
-[BlackId "corporeal#6410"]
-[WhiteElo "1703"]
-[BlackElo "1501"]
-
-{[%SevillaID "3461"]}
-*
-
-[Event "2022 April/May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.05.09"]
-[Round "5"]
-[White "OchoCougar"]
-[Black "hicetnunc"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "OchoCougar"]
-[BlackId "LrntSltf (Laurent)#3345"]
-[WhiteElo "1350"]
-[BlackElo "2008"]
-
-{[%SevillaID "3462"]}
-*
-
-[Event "2022 April/May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.05.09"]
-[Round "5"]
-[White "scaccus_africanus"]
-[Black "MorphyfanLL"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "sjwsparks #5276"]
-[BlackId "morphyfanLL#8385"]
-[WhiteElo "1526"]
-[BlackElo "1666"]
-
-{[%SevillaID "3463"]}
-*
-
-[Event "2022 April/May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.05.09"]
-[Round "5"]
-[White "Seth_Lichtenstein"]
-[Black "Gygeson"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "Seth_Lichtenstein#2638"]
-[BlackId "Gygeson #9382"]
-[WhiteElo "1510"]
-[BlackElo "1400"]
-
-{[%SevillaID "3464"]}
-*
-
-[Event "2022 April/May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.05.09"]
-[Round "5"]
 [White "Clarkp56"]
 [Black "Capa_a"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "Verified"]
 [WhiteId "Clarkp56 #9024"]
 [BlackId "ChessDad#0536"]
@@ -124,6 +12,118 @@
 [BlackElo "1479"]
 
 {[%SevillaID "3465"]}
-*
+1/2-1/2
+
+[Event "2022 April/May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.05.09"]
+[Round "5"]
+[White "esrosenberg"]
+[Black "Twan709"]
+[Result "1/2-1/2"]
+[Section "Verified"]
+[WhiteId "esrosenberg#3594"]
+[BlackId "Twan709#3245"]
+[WhiteElo "2210"]
+[BlackElo "2127"]
+
+{[%SevillaID "3458"]}
+1/2-1/2
+
+[Event "2022 April/May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.05.09"]
+[Round "5"]
+[White "joeldick"]
+[Black "headcanon"]
+[Result "0-1"]
+[Section "Verified"]
+[WhiteId "joel#7861"]
+[BlackId "zeedo#2403"]
+[WhiteElo "1778"]
+[BlackElo "1740"]
+
+{[%SevillaID "3459"]}
+0-1
+
+[Event "2022 April/May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.05.09"]
+[Round "5"]
+[White "OchoCougar"]
+[Black "hicetnunc"]
+[Result "0-1"]
+[Section "Verified"]
+[WhiteId "OchoCougar"]
+[BlackId "LrntSltf (Laurent)#3345"]
+[WhiteElo "1350"]
+[BlackElo "2008"]
+
+{[%SevillaID "3462"]}
+0-1
+
+[Event "2022 April/May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.05.09"]
+[Round "5"]
+[White "Pauli3141"]
+[Black "Banausos"]
+[Result "1/2-1/2"]
+[Section "Verified"]
+[WhiteId "Pauli#4131"]
+[BlackId "corporeal#6410"]
+[WhiteElo "1703"]
+[BlackElo "1501"]
+
+{[%SevillaID "3461"]}
+1/2-1/2
+
+[Event "2022 April/May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.05.09"]
+[Round "5"]
+[White "Rook_Handler"]
+[Black "ThorBiddles"]
+[Result "1/2-1/2"]
+[Section "Verified"]
+[WhiteId "chessgamer2007#1482"]
+[BlackId "Thorbiddles#6429"]
+[WhiteElo "1775"]
+[BlackElo "2131"]
+
+{[%SevillaID "3460"]}
+1/2-1/2
+
+[Event "2022 April/May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.05.09"]
+[Round "5"]
+[White "scaccus_africanus"]
+[Black "MorphyfanLL"]
+[Result "1-0"]
+[Section "Verified"]
+[WhiteId "sjwsparks #5276"]
+[BlackId "morphyfanLL#8385"]
+[WhiteElo "1526"]
+[BlackElo "1666"]
+
+{[%SevillaID "3463"]}
+1-0
+
+[Event "2022 April/May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.05.09"]
+[Round "5"]
+[White "Seth_Lichtenstein"]
+[Black "Gygeson"]
+[Result "1-0"]
+[Section "Verified"]
+[WhiteId "Seth_Lichtenstein#2638"]
+[BlackId "Gygeson #9382"]
+[WhiteElo "1510"]
+[BlackElo "1400"]
+
+{[%SevillaID "3464"]}
+1-0
 
 

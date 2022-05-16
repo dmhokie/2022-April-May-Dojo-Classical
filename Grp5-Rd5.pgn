@@ -2,6 +2,38 @@
 [Site "chess.com"]
 [Date "2022.05.09"]
 [Round "5"]
+[White "agedwhitecheddar"]
+[Black "rampichino"]
+[Result "*"]
+[Section "1600+"]
+[WhiteId "agedwhitecheddar#0198"]
+[BlackId "rampichino#1598"]
+[WhiteElo "2089"]
+[BlackElo "1699"]
+
+{[%SevillaID "3541"]}
+*
+
+[Event "2022 April/May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.05.09"]
+[Round "5"]
+[White "backrankbrawler"]
+[Black "iridescentmollusc"]
+[Result "*"]
+[Section "1600+"]
+[WhiteId "backrankbrawler#4978"]
+[BlackId "iridescentmollusc#4702"]
+[WhiteElo "1856"]
+[BlackElo "1849"]
+
+{[%SevillaID "3535"]}
+*
+
+[Event "2022 April/May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.05.09"]
+[Round "5"]
 [White "Bartholomaeus"]
 [Black "ezrasMonkey"]
 [Result "*"]
@@ -11,7 +43,7 @@
 [WhiteElo "1771"]
 [BlackElo "1688"]
 
-{[%SevillaID "3451"]}
+{[%SevillaID "3544"]}
 *
 
 [Event "2022 April/May Dojo Classical"]
@@ -27,23 +59,7 @@
 [WhiteElo "2100"]
 [BlackElo "1700"]
 
-{[%SevillaID "3447"]}
-*
-
-[Event "2022 April/May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.05.09"]
-[Round "5"]
-[White "forefinger"]
-[Black "backrankbrawler"]
-[Result "*"]
-[Section "1600+"]
-[WhiteId "forefinger #0294"]
-[BlackId "backrankbrawler#4978"]
-[WhiteElo "1801"]
-[BlackElo "1856"]
-
-{[%SevillaID "3443"]}
+{[%SevillaID "3540"]}
 *
 
 [Event "2022 April/May Dojo Classical"]
@@ -51,29 +67,14 @@
 [Date "2022.05.09"]
 [Round "5"]
 [White "geekvinod"]
-[Black "agedwhitecheddar"]
+[Black "headcanon"]
 [Result "*"]
 [Section "1600+"]
-[BlackId "agedwhitecheddar#0198"]
+[BlackId "zeedo#2403"]
 [WhiteElo "1685"]
-[BlackElo "2089"]
+[BlackElo "1740"]
 
-{[%SevillaID "3448"]}
-*
-
-[Event "2022 April/May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.05.09"]
-[Round "5"]
-[White "headcanon"]
-[Black "iamjameel"]
-[Result "*"]
-[Section "1600+"]
-[WhiteId "zeedo#2403"]
-[WhiteElo "1740"]
-[BlackElo "1745"]
-
-{[%SevillaID "3454"]}
+{[%SevillaID "3545"]}
 *
 
 [Event "2022 April/May Dojo Classical"]
@@ -81,15 +82,15 @@
 [Date "2022.05.09"]
 [Round "5"]
 [White "ibh1985"]
-[Black "Boomamarsh"]
+[Black "forefinger"]
 [Result "*"]
 [Section "1600+"]
 [WhiteId "ibh #4926"]
-[BlackId "chessmocha"]
+[BlackId "forefinger #0294"]
 [WhiteElo "1730"]
-[BlackElo "2115"]
+[BlackElo "1801"]
 
-{[%SevillaID "3446"]}
+{[%SevillaID "3538"]}
 *
 
 [Event "2022 April/May Dojo Classical"]
@@ -97,15 +98,15 @@
 [Date "2022.05.09"]
 [Round "5"]
 [White "KF_91"]
-[Black "rampichino"]
+[Black "wocash"]
 [Result "*"]
 [Section "1600+"]
 [WhiteId "KF_91"]
-[BlackId "rampichino#1598"]
+[BlackId "wocash#0760"]
 [WhiteElo "1830"]
-[BlackElo "1699"]
+[BlackElo "1642"]
 
-{[%SevillaID "3450"]}
+{[%SevillaID "3543"]}
 *
 
 [Event "2022 April/May Dojo Classical"]
@@ -121,22 +122,7 @@
 [WhiteElo "1697"]
 [BlackElo "1673"]
 
-{[%SevillaID "3457"]}
-*
-
-[Event "2022 April/May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.05.09"]
-[Round "5"]
-[White "KingSideInvasion"]
-[Black "iridescentmollusc"]
-[Result "*"]
-[Section "1600+"]
-[BlackId "iridescentmollusc#4702"]
-[WhiteElo "1953"]
-[BlackElo "1849"]
-
-{[%SevillaID "3442"]}
+{[%SevillaID "3550"]}
 *
 
 [Event "2022 April/May Dojo Classical"]
@@ -152,7 +138,7 @@
 [WhiteElo "2060"]
 [BlackElo "1926"]
 
-{[%SevillaID "3441"]}
+{[%SevillaID "3534"]}
 *
 
 [Event "2022 April/May Dojo Classical"]
@@ -166,7 +152,7 @@
 [WhiteElo "1653"]
 [BlackElo "2014"]
 
-{[%SevillaID "3449"]}
+{[%SevillaID "3542"]}
 *
 
 [Event "2022 April/May Dojo Classical"]
@@ -174,14 +160,14 @@
 [Date "2022.05.09"]
 [Round "5"]
 [White "morphyfanLL"]
-[Black "WhiteDrake"]
+[Black "iamjameel"]
 [Result "*"]
 [Section "1600+"]
 [WhiteId "morphyfanLL#8385"]
 [WhiteElo "1666"]
-[BlackElo "1621"]
+[BlackElo "1745"]
 
-{[%SevillaID "3456"]}
+{[%SevillaID "3547"]}
 *
 
 [Event "2022 April/May Dojo Classical"]
@@ -197,7 +183,7 @@
 [WhiteElo "2000"]
 [BlackElo "1763"]
 
-{[%SevillaID "3445"]}
+{[%SevillaID "3537"]}
 *
 
 [Event "2022 April/May Dojo Classical"]
@@ -205,14 +191,14 @@
 [Date "2022.05.09"]
 [Round "5"]
 [White "Pauli3141"]
-[Black "talalma"]
+[Black "WhiteDrake"]
 [Result "*"]
 [Section "1600+"]
 [WhiteId "Pauli#4131"]
 [WhiteElo "1703"]
-[BlackElo "1622"]
+[BlackElo "1621"]
 
-{[%SevillaID "3455"]}
+{[%SevillaID "3548"]}
 *
 
 [Event "2022 April/May Dojo Classical"]
@@ -227,7 +213,7 @@
 [WhiteElo "1760"]
 [BlackElo "1602"]
 
-{[%SevillaID "3453"]}
+{[%SevillaID "3546"]}
 *
 
 [Event "2022 April/May Dojo Classical"]
@@ -243,7 +229,7 @@
 [WhiteElo "1779"]
 [BlackElo "1969"]
 
-{[%SevillaID "3440"]}
+{[%SevillaID "3533"]}
 *
 
 [Event "2022 April/May Dojo Classical"]
@@ -251,15 +237,30 @@
 [Date "2022.05.09"]
 [Round "5"]
 [White "strangeQuark6"]
-[Black "wocash"]
+[Black "Boomamarsh"]
 [Result "*"]
 [Section "1600+"]
 [WhiteId "strangeQuark6#1821"]
-[BlackId "wocash#0760"]
+[BlackId "chessmocha"]
 [WhiteElo "1769"]
-[BlackElo "1642"]
+[BlackElo "2115"]
 
-{[%SevillaID "3452"]}
+{[%SevillaID "3539"]}
+*
+
+[Event "2022 April/May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.05.09"]
+[Round "5"]
+[White "talalma"]
+[Black "Jon Luzhin"]
+[Result "*"]
+[Section "1600+"]
+[BlackId "discordmoniker#0925"]
+[WhiteElo "1622"]
+[BlackElo "1699"]
+
+{[%SevillaID "3549"]}
 *
 
 [Event "2022 April/May Dojo Classical"]
@@ -275,7 +276,7 @@
 [WhiteElo "1740"]
 [BlackElo "2101"]
 
-{[%SevillaID "3444"]}
+{[%SevillaID "3536"]}
 *
 
 
