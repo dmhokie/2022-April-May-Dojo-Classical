@@ -84,7 +84,7 @@
 [Round "6"]
 [White "Seth_Lichtenstein"]
 [Black "scaccus_africanus"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "Seth_Lichtenstein#2638"]
 [BlackId "sjwsparks #5276"]
@@ -92,7 +92,7 @@
 [BlackElo "1526"]
 
 {[%SevillaID "3470"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]

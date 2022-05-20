@@ -20,7 +20,7 @@
 [Round "6"]
 [White "backrankbrawler"]
 [Black "snapfirer"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+"]
 [WhiteId "backrankbrawler#4978"]
 [BlackId "okrandom#9974"]
@@ -28,7 +28,7 @@
 [BlackElo "1779"]
 
 {[%SevillaID "3588"]}
-*
+1/2-1/2
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -98,14 +98,14 @@
 [Round "6"]
 [White "geekvinod"]
 [Black "headcanon"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [BlackId "zeedo#2403"]
 [WhiteElo "1685"]
 [BlackElo "1740"]
 
 {[%SevillaID "3600"]}
-*
+1-0
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -192,14 +192,14 @@
 [Round "6"]
 [White "talalma"]
 [Black "khang421"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [BlackId "its trudeau#0521"]
 [WhiteElo "1622"]
 [BlackElo "1697"]
 
 {[%SevillaID "3604"]}
-*
+1-0
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -254,7 +254,7 @@
 [Round "6"]
 [White "wisdomlange"]
 [Black "Bartholomaeus"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+"]
 [WhiteId "wisdomlange#7956"]
 [BlackId "Bartholomaeus89#0647"]
@@ -262,7 +262,7 @@
 [BlackElo "1771"]
 
 {[%SevillaID "3596"]}
-*
+1/2-1/2
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]

@@ -20,7 +20,7 @@
 [Round "6"]
 [White "Barnstorm"]
 [Black "altviol"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "Barnstorm#2520"]
 [BlackId "KB#9426"]
@@ -28,7 +28,7 @@
 [BlackElo "1200"]
 
 {[%SevillaID "3512"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -349,14 +349,14 @@
 [Round "6"]
 [White "therrieur76"]
 [Black "MiltonHarvey"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "therrieur#7921"]
 [WhiteElo "1499"]
 [BlackElo "1458"]
 
 {[%SevillaID "3492"]}
-*
+1-0
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -364,7 +364,7 @@
 [Round "6"]
 [White "vonSlattery"]
 [Black "jailer165"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "vonSlattery#7930"]
 [BlackId "jailer165#0369"]
@@ -372,7 +372,7 @@
 [BlackElo "1357"]
 
 {[%SevillaID "3507"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
