@@ -4,7 +4,7 @@
 [Round "6"]
 [White "Banausos"]
 [Black "Rook_Handler"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "corporeal#6410"]
 [BlackId "chessgamer2007#1482"]
@@ -12,7 +12,7 @@
 [BlackElo "1775"]
 
 {[%SevillaID "3469"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -20,7 +20,7 @@
 [Round "6"]
 [White "Capa_a"]
 [Black "OchoCougar"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "ChessDad#0536"]
 [BlackId "OchoCougar"]
@@ -28,7 +28,7 @@
 [BlackElo "1350"]
 
 {[%SevillaID "3471"]}
-*
+1-0
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -36,7 +36,7 @@
 [Round "6"]
 [White "headcanon"]
 [Black "esrosenberg"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "zeedo#2403"]
 [BlackId "esrosenberg#3594"]
@@ -44,7 +44,7 @@
 [BlackElo "2210"]
 
 {[%SevillaID "3466"]}
-*
+0-1
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -52,7 +52,7 @@
 [Round "6"]
 [White "hicetnunc"]
 [Black "Pauli3141"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "LrntSltf (Laurent)#3345"]
 [BlackId "Pauli#4131"]
@@ -60,7 +60,7 @@
 [BlackElo "1703"]
 
 {[%SevillaID "3468"]}
-*
+1-0
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "6"]
 [White "MorphyfanLL"]
 [Black "Clarkp56"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "morphyfanLL#8385"]
 [BlackId "Clarkp56 #9024"]
@@ -76,7 +76,7 @@
 [BlackElo "841"]
 
 {[%SevillaID "3472"]}
-*
+1-0
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -100,7 +100,7 @@
 [Round "6"]
 [White "Twan709"]
 [Black "joeldick"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "Twan709#3245"]
 [BlackId "joel#7861"]
@@ -108,7 +108,7 @@
 [BlackElo "1778"]
 
 {[%SevillaID "3467"]}
-*
+1-0
 
 [Event "2022 April/May Dojo Classical"]
 [Site "chess.com"]
@@ -116,7 +116,7 @@
 [Round "6"]
 [White "yaR_33"]
 [Black "Gygeson"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "yaR_33#0033"]
 [BlackId "Gygeson #9382"]
@@ -124,6 +124,6 @@
 [BlackElo "1400"]
 
 {[%SevillaID "3473"]}
-*
+1-0
 
 
